@@ -1,5 +1,6 @@
-![image](https://github.com/RajibRobidas/RajibRobidas/assets/107397886/1398d209-6bb6-4617-ae45-202a47fe9416)<h1 align="center">Hi 👋, I'm Rajib Robidas</h1>
+<h1 align="center">Hi 👋, I'm Rajib Robidas</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![image](https://github.com/RajibRobidas/RajibRobidas/assets/107397886/1398d209-6bb6-4617-ae45-202a47fe9416)
 <img align="right"alt="coding"width="400"src="![image](https://github.com/RajibRobidas/RajibRobidas/assets/107397886/8410a68b-8dd4-4ed3-9cd8-6155790c75d3)
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajibrobidas&label=Profile%20views&color=0e75b6&style=flat" alt="rajibrobidas" /> </p>
