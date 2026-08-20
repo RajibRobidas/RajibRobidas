@@ -12,7 +12,7 @@ Software Engineer | Full Stack Developer | AI & Computer Vision Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Sc. in Computer Science & Engineering at **Shahjalal University of Science & Technology (SUST)**
+- 🎓 B.Sc. in Computer Science & Engineering at **Shahjalal University of Science & Technology (SUST)**
 - 💻 Passionate about **Software Engineering**, **Full Stack Web Development**, and **Backend Development**
 - 🤖 Interested in **Artificial Intelligence**, **Computer Vision**, and **Retrieval-Augmented Generation (RAG)**
 - 🌱 Currently learning **System Design**, **Cloud Computing**, **Docker**, **Kubernetes**, and **AWS**
